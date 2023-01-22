@@ -20,8 +20,8 @@ stroke-linejoin: round;
 </defs>
 <image clip-path="url(#c0_8)" preserveAspectRatio="none" x="110" y="22" width="73" height="73" xlink:href="img/1.png"/>
 <path fill-rule="evenodd" d="M404.5,137.7H530.7v-1.3H404.5v1.3Z" class="g0_8"/>
-<path fill-rule="evenodd" d="M295.2,386.7h99.5v-1.1H295.2v1.1Z" class="g0_8"/>
-<path fill-rule="evenodd" d="M383.9,427.7h39.8v-1.1H383.9v1.1Z" class="g0_8"/>
+<path fill-rule="evenodd" d="M295.2,386.7h99.6v-1.1H295.2v1.1Z" class="g0_8"/>
+<path fill-rule="evenodd" d="M384,427.8h39.8v-1.1H384v1.1Z" class="g0_8"/>
 <image clip-path="url(#c1_8)" preserveAspectRatio="none" x="142" y="943" width="651" height="166" xlink:href="img/2.jpg"/>
 <image clip-path="url(#c2_8)" preserveAspectRatio="none" x="308" y="673" width="319" height="202" xlink:href="img/3.jpg"/>
 <path d="M306.7,877H628.9V671.4H306.7V877Z" class="g1_8"/>
